@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/natnael-kebede-088281125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-kebede-088281125/" height="30" width="40" /></a>
+<a href="https://angel.co/u/natnael-habtamu" target="blank"><img align="center" src="https://www.iconfinder.com/icons/4394217/download/svg/4096" alt="natnemh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/natnaelhabtamu0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="natnaelhabtamu0" height="30" width="40" /></a>
 <a href="https://fb.com/natnael.habtamu.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="natnael.habtamu.50" height="30" width="40" /></a>
 <a href="https://instagram.com/natnemh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="natnemh" height="30" width="40" /></a>
